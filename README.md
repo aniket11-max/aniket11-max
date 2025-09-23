@@ -1,61 +1,62 @@
+<h1 align="center">
+  <span style="color:#FF00FF; font-size:32px;">Hi 👋 I'm Aniket</span>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFAB,00FFFF&center=true&vCenter=true&width=700&lines=AWS+%26+DevOps+|+Cloud+%7C+CI%2FCD+%7C+Automation;Let's+Build+Something+Awesome+💻&duration=3000&repeat=true" alt="Typing Effect"/>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">🚀 DevOps & AWS | Cloud Enthusiast ☁️</h3>
-
----
-
-<p align="center">
-  <!-- Animated Banner / GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
-</p>
-
-<p align="center">
-  <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=DevOps;AWS;Automation;Cloud+Engineer" alt="Typing SVG" />
+ 
+<p align="leftside">
+  <img src="https://komarev.com/ghpvc/?username=aniket&style=flat-square&color=brightgreen" alt="views"/>
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently focusing on **DevOps & AWS**
-- 🌱 Love to explore **Cloud & Automation**
-- 💡 Passionate about **Building Scalable Systems**
+## 🚀 About Me  
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="350"/>  
+  <br><br>
+  <span style="font-size:18px;">🌐 AWS & DevOps enthusiast</span>  
+  <br><span style="font-size:18px;">🐳 Experienced with <b>Docker, Kubernetes, Terraform, Python, Ansible, GitLab</b></span>  
+  <br><span style="font-size:18px;">⚡ Passionate about <b>Cloud Automation & CI/CD</b></span>  
+  <br><span style="font-size:18px;">🎯 Goal: <i>Become a Cloud/DevOps Engineer</i></span>
+</p>
+
 
 ---
 
-### 📫 Connect with me
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://github.com/Aniket11-max" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniketpawar777759205" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/eraniketpawar11" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/aniket.pawar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github,jenkins,python,ansible,gitlab&theme=dark" height="40"/>
 </p>
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket11-max&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats"/>
-</p>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket11-max&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket&theme=radical" alt="streak" height="150"/>
 </p>
 
 ---
 
-### 🚀 Skills
+## 🌈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket&theme=react-dark&hide_border=true)
+
+---
+
+## 🌍 Connect With Me  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<a href="https://www.linkedin.com/in/aniket-pawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://www.instagram.com/er_aniket_pawar11" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
+<a href="https://www.facebook.com/aniket.pawar" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/></a>
+<a href="mailto:aniketpawar102030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 </p>
+
+---
+
+
+
+
