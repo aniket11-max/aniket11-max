@@ -46,9 +46,8 @@
 ---
 
 ## 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform, git,github,jenkins,python,ansible,gitlab&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github,jenkins,python,ansible,gitlab,bash&theme=dark" height="40"/>
 </p>
 
 ---
