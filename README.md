@@ -49,7 +49,7 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aniket-pawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://www.linkedin.com/in/aniket-pawar-777759205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
 <a href="https://www.instagram.com/er_aniket_pawar11" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
 <a href="https://www.facebook.com/aniket.pawar" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/></a>
 <a href="mailto:aniketpawar102030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
