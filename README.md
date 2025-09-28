@@ -22,7 +22,7 @@
 | Domain                  | Skills / Tools                                         | Projects                                                                                     |
 |-------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | **Cloud Computing**      | AWS, Terraform, Kubernetes, Docker                     | [Cloud Infra Automation](https://github.com/aniket/cloud-infra-automation)                   |
-| **DevOps**               | Jenkins, GitLab CI/CD, Ansible                         | [CI/CD Pipeline Setup](https://github.com/aniket/ci-cd-pipeline)                              |
+| **DevOps**               | Jenkins, GitLab CI/CD, Ansible                         | https://github.com/aniket11-max/git-redme/blob/main/git-redme.md                              |
 | **Programming**          | Python, Bash Scripting, Automation, Scripting Skills  | [Automation Scripts](https://github.com/aniket/automation-scripts)                            |
 | **Web Development**      | HTML, CSS, JavaScript, Responsive Design, Frontend    | [Portfolio Website](https://github.com/aniket/portfolio)                                      |
 | **Monitoring & Logging** | CloudWatch, ELK Stack, Prometheus, Grafana            | [Monitoring Setup](https://github.com/aniket/monitoring-setup)                                |
