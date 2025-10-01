@@ -9,26 +9,39 @@
 </p>
 
 
-
-
-
-
-
   <h2>💼 My Domains & Projects</h2>
 </h2>
 
 <p align="left">
 
-| Domain                  | Skills / Tools                                         | Projects                                                                                     |
-|-------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| **Cloud Computing**      | AWS, Terraform, Kubernetes, Docker                     | [Cloud Infra Automation](https://github.com/aniket/cloud-infra-automation)                   |
-| **DevOps**               | Jenkins, GitLab CI/CD, Ansible                         | https://github.com/aniket11-max/git-redme/blob/main/git-redme.md                              |
-| **Programming**          | Python, Bash Scripting, Automation, Scripting Skills  | [Automation Scripts](https://github.com/aniket/automation-scripts)                            |
-| **Web Development**      | HTML, CSS, JavaScript, Responsive Design, Frontend    | [Portfolio Website](https://github.com/aniket/portfolio)                                      |
-| **Monitoring & Logging** | CloudWatch, ELK Stack, Prometheus, Grafana            | [Monitoring Setup](https://github.com/aniket/monitoring-setup)                                |
-| **Containerization**     | Docker, Kubernetes, Helm, Container Orchestration     | [Containerized App Deployment](https://github.com/aniket/container-deployment)                |
+| Domain                  | Skills / Tools          | Projects                                                                                     |
+|:------------------------|:------------------------|:---------------------------------------------------------------------------------------------|
+| **Cloud Computing**     | AWS                     | [3-Tier Architecture](https://github.com/aniket11-max/3-tire-Architech)                      |
+|                         | Terraform               | [Cloud Infra Automation](https://github.com/aniket/cloud-infra-automation)                   |
+|                         | Kubernetes              |                                                                                              |
+|                         | Docker                  |                                                                                              |
+| **DevOps**              | Jenkins                 |                                                                                              |
+|                         | GitLab                  |                                                                                              |
+|                         | CI/CD                   |                                                                                              |
+|                         | Ansible                 | [Git README Demo](https://github.com/aniket11-max/git-redme/blob/main/git-redme.md)          |
+| **Programming**         | Python                  | [Automation Scripts](https://github.com/aniket/automation-scripts)                           |
+|                         | Bash Scripting          |                                                                                              |
+|                         | Automation              |                                                                                              |
+|                         | Scripting Skills        |                                                                                              |
+| **Web Development**     | HTML                    | [Portfolio Website](https://github.com/aniket/portfolio)                                     |
+|                         | CSS                     |                                                                                              |
+|                         | JavaScript              |                                                                                              |
+|                         | Responsive Design       |                                                                                              |
+|                         | Frontend                |                                                                                              |
+| **Monitoring & Logging**| CloudWatch              | [Monitoring Setup](https://github.com/aniket/monitoring-setup)                               |
+|                         | ELK Stack               |                                                                                              |
+|                         | Prometheus              |                                                                                              |
+|                         | Grafana                 |                                                                                              |
+| **Containerization**    | Docker                  | [Containerized App Deployment](https://github.com/aniket/container-deployment)               |
+|                         | Kubernetes              |                                                                                              |
+|                         | Helm                    |                                                                                              |
+|                         | Container Orchestration |                                                                                              |
 
-</p>
 
 ---
 
