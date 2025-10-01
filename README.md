@@ -20,7 +20,7 @@
 |                         | Kubernetes                       |                                                                                              |
 |                         | Docker                           |                                                                                              |
 | **DevOps**              | Jenkins                          |                                                                                              |
-|                         | Git                               |  https://github.com/aniket11-max/git-info/blob/main/git-redme.md                                                                                     
+|                         | Git                               | https://github.com/aniket11-max/git-info/blob/main/git-redme.md                                                                                     
 |                         | CI/CD                             |                                                                                              |
 |                         | Ansible                           |                                                                                              |
 | **Programming**         | Python                            |                                                                                              |
