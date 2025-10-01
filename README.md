@@ -10,39 +10,36 @@
 
 
   <h2 align="center">💼 Domains & Projects</h2>
+  <div align="center">
 
- 
 
-<div align="center">
-
-| Domain                  | Skills / Tools          | Projects                                                                                     |
-|:------------------------|:------------------------|:---------------------------------------------------------------------------------------------|
-| **Cloud Computing**     | AWS                     | [3-Tier Architecture](https://github.com/aniket11-max/3-tire-Architech)                      |
-|                         | Terraform               | [Cloud Infra Automation](https://github.com/aniket/cloud-infra-automation)                   |
-|                         | Kubernetes              |                                                                                              |
-|                         | Docker                  |                                                                                              |
-| **DevOps**              | Jenkins                 |                                                                                              |
-|                         | GitLab                  |                                                                                              |
-|                         | CI/CD                   |                                                                                              |
-|                         | Ansible                 | [Git README Demo](https://github.com/aniket11-max/git-redme/blob/main/git-redme.md)          |
-| **Programming**         | Python                  | [Automation Scripts](https://github.com/aniket/automation-scripts)                           |
-|                         | Bash Scripting          |                                                                                              |
-|                         | Automation              |                                                                                              |
-|                         | Scripting Skills        |                                                                                              |
-| **Web Development**     | HTML                    | [Portfolio Website](https://github.com/aniket/portfolio)                                     |
-|                         | CSS                     |                                                                                              |
-|                         | JavaScript              |                                                                                              |
-|                         | Responsive Design       |                                                                                              |
-|                         | Frontend                |                                                                                              |
-| **Monitoring & Logging**| CloudWatch              | [Monitoring Setup](https://github.com/aniket/monitoring-setup)                               |
-|                         | ELK Stack               |                                                                                              |
-|                         | Prometheus              |                                                                                              |
-|                         | Grafana                 |                                                                                              |
-| **Containerization**    | Docker                  | [Containerized App Deployment](https://github.com/aniket/container-deployment)               |
-|                         | Kubernetes              |                                                                                              |
-|                         | Helm                    |                                                                                              |
-|                         | Container Orchestration |                                                                                              |
-
+| Domain                  | Skills / Tools                   | Projects                                                                                     |
+|:------------------------|:---------------------------------|:---------------------------------------------------------------------------------------------|
+| **Cloud Computing**     | AWS                              |   https://github.com/aniket11-max/3-tire-Architech                                             |
+|                         | Terraform                        |                                                                                              |
+|                         | Kubernetes                       |                                                                                              |
+|                         | Docker                           |                                                                                              |
+| **DevOps**              | Jenkins                          |                                                                                              |
+|                         | Git                               |  https://github.com/aniket11-max/git-info/blob/main/git-redme.md                                                                                     
+|                         | CI/CD                             |                                                                                              |
+|                         | Ansible                           |                                                                                              |
+| **Programming**         | Python                            |                                                                                              |
+|                         | Bash Scripting                    |                                                                                              |
+|                         | Automation                        |                                                                                              |
+|                         | Scripting Skills                  |                                                                                              |
+| **Web Development**     | HTML                               |                                                                                              |
+|                         | CSS                                |                                                                                              |
+|                         | JavaScript                         |                                                                                              |
+|                         | Responsive Design                  |                                                                                              |
+|                         | Frontend                           |                                                                                              |
+| **Monitoring & Logging**| CloudWatch                          |                                                                                             |
+|                         | ELK Stack                           |                                                                                              |
+|                         | Prometheus                          |                                                                                              |
+|                         | Grafana                             |                                                                                              |
+| **Containerization**    | Docker                              |                                                                                              |
+|                         | Kubernetes                          |                                                                                              |
+|                         | Helm                                |                                                                                              |
+|                         | Container Orchestration             |                                                                                              |
 
 ---
 
