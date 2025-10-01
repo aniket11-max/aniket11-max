@@ -9,10 +9,11 @@
 </p>
 
 
-  <h2>💼 My Domains & Projects</h2>
-</h2>
+  <h2 align="center">💼 Domains & Projects</h2>
 
-<p align="left">
+ 
+
+<div align="center">
 
 | Domain                  | Skills / Tools          | Projects                                                                                     |
 |:------------------------|:------------------------|:---------------------------------------------------------------------------------------------|
